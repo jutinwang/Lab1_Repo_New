@@ -1,2 +1,20 @@
+<<<<<<< HEAD
 Anjali
 Amy
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+Kristen
+=======
+Justin
+>>>>>>> 7fd7eb10d7e152f88162d213772f42bb7448bda5
+=======
+Justin
+Pranav
+>>>>>>> 0d82f4164a04824874b5430fbdb08a6bf1dec22c
+=======
+Anjali
+Pranav
+>>>>>>> f20b0ecef8c70d9c7e6af8a9565c68b2a19e0d57
+>>>>>>> 187e2d17d1223c6725533b96218d0579984333c2
