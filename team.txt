@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 Justin
 Kristen
 Rahul
-
-=======
-Amy
->>>>>>> fc95a54d8f718294cc660d76048c21dcc062be45
+Pranav
